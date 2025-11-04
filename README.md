@@ -1,16 +1,86 @@
-# React + Vite
+# 🌸 Mon Bondhu — মনবন্ধু
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Empathy-driven community health & wellbeing platform**
 
-Currently, two official plugins are available:
+Mon Bondhu (মনবন্ধু) is a web-based initiative that connects people to health resources, maternal & child care tools, emotional support, and AI-powered assistance — all in Bangla for accessibility and compassion. 💚
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🌐 Website Structure
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```
+monbondhu-mpa/
+├─ index.html          # 🏠 Home
+├─ mood.html           # 😊 Mood Check
+├─ map.html            # 🗺️ Health Map
+├─ maternal.html       # 🤰 Maternal Health
+├─ immun.html          # 👶 Child Immunization
+├─ bot.html            # 💬 Chatbot (Rule-based)
+├─ emergency.html      # 🚨 Emergency Help
+├─ dashboard.html      # 📊 Dashboard
+├─ ai.html             # 🤖 AI Assistance
+├─ volunteer.html      # 🙌 Volunteer Network
+├─ daily.html          # 🏆 Daily Challenge
+└─ assets/             # 🎨 Images, CSS, JS, Icons
+```
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Features
+
+* **Mood Check:** Track mental state and get self-care advice.
+* **Health Map:** Locate nearby hospitals, clinics, and volunteers.
+* **Maternal & Child Health:** Access maternal care info and immunization tracker.
+* **Emergency Help:** One-tap access to local emergency numbers and volunteers.
+* **Dashboard:** Personal overview of activities and saved data.
+* **AI Assistant:** Rule-based chatbot for health guidance and daily motivation.
+* **Volunteer & Challenges:** Join community challenges and help others.
+
+---
+
+## 🧩 Tech Stack
+
+* **HTML5, CSS3, JavaScript**
+* **Responsive Frontend (Bootstrap / Custom CSS)**
+* **Google Maps API** *(for health map)*
+* **Rule-based AI Bot (JavaScript logic)**
+* **Bangla Localization Support**
+
+---
+
+## 🚀 Setup & Run Locally
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/GM-FARIHA-TASNIM/Mon_Bondhu-.git
+   cd Mon_Bondhu-
+   ```
+2. Open `index.html` in your browser or serve via Live Server (VS Code).
+
+---
+
+## 💡 Future Plans
+
+* Upgrade chatbot to AI-powered version (with offline capabilities).
+* Add telehealth integration & digital prescription storage.
+* Connect with local NGOs and public health APIs.
+
+---
+
+## 👩‍💻 Contributors
+
+* **Fariha Tasnim (Project Lead)**
+* **Rahul (System & AI Design)**
+* **Team Mon Bondhu Developers**
+
+---
+
+## 📜 License
+
+This project is open-source under the **MIT License**.
+Feel free to use, modify, and share with attribution.
+
+---
+
+**“মনবন্ধু — আমরা আছি তোমার পাশে।”** 💚
