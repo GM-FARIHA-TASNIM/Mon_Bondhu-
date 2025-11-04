@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mon_Bondhu-/static/css/main.d6fda277.css",
+    "main.js": "/Mon_Bondhu-/static/js/main.b21a8d9f.js",
+    "index.html": "/Mon_Bondhu-/index.html",
+    "main.d6fda277.css.map": "/Mon_Bondhu-/static/css/main.d6fda277.css.map",
+    "main.b21a8d9f.js.map": "/Mon_Bondhu-/static/js/main.b21a8d9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6fda277.css",
+    "static/js/main.b21a8d9f.js"
+  ]
+}
