@@ -10,18 +10,18 @@ Mon Bondhu (মনবন্ধু) is a web-based initiative that connects peopl
 
 ```
 monbondhu-mpa/
-├─ index.html          # 🏠 Home
-├─ mood.html           # 😊 Mood Check
-├─ map.html            # 🗺️ Health Map
-├─ maternal.html       # 🤰 Maternal Health
-├─ immun.html          # 👶 Child Immunization
-├─ bot.html            # 💬 Chatbot (Rule-based)
-├─ emergency.html      # 🚨 Emergency Help
-├─ dashboard.html      # 📊 Dashboard
-├─ ai.html             # 🤖 AI Assistance
-├─ volunteer.html      # 🙌 Volunteer Network
-├─ daily.html          # 🏆 Daily Challenge
-└─ assets/             # 🎨 Images, CSS, JS, Icons
+├─ index.html          
+├─ mood.html           
+├─ map.html           
+├─ maternal.html       
+├─ immun.html          
+├─ bot.html            
+├─ emergency.html      
+├─ dashboard.html      
+├─ ai.html             
+├─ volunteer.html      
+├─ daily.html         
+└─ assets/            
 ```
 
 ---
